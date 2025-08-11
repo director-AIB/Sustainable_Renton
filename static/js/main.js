@@ -1,0 +1,1 @@
+console.log('Volunteer App JS loaded');
